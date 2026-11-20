@@ -323,8 +323,9 @@ sales-performance-analysis-excel/
 
 ## Author
 
-**Khadijat Logun Sholagberu**  
-Data Analyst | Business Intelligence  
-Ilorin, Nigeria
+Sholagberu Logun Khadijat
 
-[LinkedIn](ADD_YOUR_LINKEDIN_URL) | [Email](mailto:logunkhadijah@gmail.com)
+Data Analyst | Excel, Power BI, SQL, & Python
+
+[Email](khadijahlogun@gmail.com)
+| [Linkedin](https://www.linkedin.com/in/logun-khadijah-b721a0270?)
