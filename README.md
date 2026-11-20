@@ -19,8 +19,6 @@ Using Microsoft Excel, I analysed a sales dataset to understand revenue, profita
 
 ## Dashboard Preview
 
-Add your dashboard screenshot to the `images/` folder and update the image path below.
-
 ![Sales Performance Dashboard](images/Sales_Performance_Dashboard.png)
 
 ## Introduction
@@ -327,5 +325,5 @@ Sholagberu Logun Khadijat
 
 Data Analyst | Excel, Power BI, SQL, & Python
 
-[Email](khadijahlogun@gmail.com)
+[E-mail](khadijahlogun@gmail.com)
 | [Linkedin](https://www.linkedin.com/in/logun-khadijah-b721a0270?)
