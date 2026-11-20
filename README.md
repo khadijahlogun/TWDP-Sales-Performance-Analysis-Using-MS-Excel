@@ -311,12 +311,9 @@ sales-performance-analysis-excel/
 ├── README.md
 ├── excel/
 │   └── Sales_Performance_Dashboard.xlsx
-├── data/
-│   └── Sales_Dataset.xlsx
-├── images/
-│   └── Sales_Performance_Dashboard.png
-└── report/
-    └── Sales_Performance_Report.pdf
+└── images/
+    └── Sales_Performance_Dashboard.png
+
 ```
 
 ## Author
